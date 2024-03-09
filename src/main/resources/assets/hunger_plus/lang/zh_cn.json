@@ -1,0 +1,32 @@
+{
+  "language.region": "China",
+  "language.name": "Simplified Chinese",
+  "language.code": "zh_cn",
+
+  "item.hunger_plus.eatable_dirt": "食用土",
+
+  "item.hunger_plus.big_stomach_potion_large": "大胃药水",
+  "item.hunger_plus.big_stomach_potion_medium": "大胃药水",
+  "item.hunger_plus.big_stomach_potion_small": "大胃药水",
+
+  "commands.hunger.setMaxFoodLevel.success1": "成功设置了：",
+  "commands.hunger.setMaxFoodLevel.success2": "玩家的最大饥饿值为",
+  "commands.hunger.setMinHealFoodLevel.success1": "成功设置了：",
+  "commands.hunger.setMinHealFoodLevel.success2": "玩家的最小回血饥饿值为",
+  "commands.hunger.sustained": "其修改值现在不再因死亡而重置了",
+  "commands.hunger.sustained.NO": "其修改值现在在死亡后会重置",
+  "commands.hunger.setFoodLevel": "玩家的饥饿值为",
+  "commands.hunger.setSaturation": "玩家的饱和值为",
+  "commands.hunger.set.fail": "失败设置了：",
+  "commands.hunger.setFoodLevel.failCause": "玩家的饥饿值，因为超过了最大饥饿值！",
+  "commands.hunger.setSaturation.failCause": "玩家的饱和值，因为超过了饥饿值！",
+
+  "text.AndSoOn": " 等",
+  "text.big_stomach_potion.effect_small": "增加玩家2点饥饿值上限",
+  "text.big_stomach_potion.effect_medium": "增加玩家8点饥饿值上限",
+  "text.big_stomach_potion.effect_large": "增加玩家20点饥饿值上限",
+  "text.big_stomach_potion.small": "小瓶",
+  "text.big_stomach_potion.medium": "中瓶",
+  "text.big_stomach_potion.large": "大瓶",
+  "text.eatable_dirt.effect": "减少玩家2点饥饿值上限"
+}

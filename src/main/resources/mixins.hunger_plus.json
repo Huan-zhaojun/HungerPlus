@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.huan.mod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.hunger_plus.refmap.json",
+  "mixins": [
+    "FoodStatsMixin",
+    "PlayerEntityMixin"
+  ],
+  "client": [
+    "ForgeIngameGuiMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

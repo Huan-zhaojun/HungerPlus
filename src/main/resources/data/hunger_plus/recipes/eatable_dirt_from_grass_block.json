@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "eatable_dirt",
+  "ingredients": [
+    {
+      "item": "minecraft:grass_block"
+    }
+  ],
+  "result": {
+    "item": "hunger_plus:eatable_dirt",
+    "count": 4
+  }
+}

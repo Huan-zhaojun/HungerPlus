@@ -1,0 +1,32 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "item.hunger_plus.eatable_dirt": "eatable dirt",
+
+  "item.hunger_plus.big_stomach_potion_large": "big stomach potion",
+  "item.hunger_plus.big_stomach_potion_medium": "big stomach potion",
+  "item.hunger_plus.big_stomach_potion_small": "big stomach potion",
+
+  "commands.hunger.setMaxFoodLevel.success1": "Successfully set up:",
+  "commands.hunger.setMaxFoodLevel.success2": "who the Maximum hunger value of their as player to ",
+  "commands.hunger.setMinHealFoodLevel.success1": "Successfully set up:",
+  "commands.hunger.setMinHealFoodLevel.success2": "who the Minimum heal hunger value of their as player to ",
+  "commands.hunger.sustained": "Now,Its modified value is no longer reset after death",
+  "commands.hunger.sustained.NO": "Now,Its modified value is reset after death",
+  "commands.hunger.setFoodLevel": "who the hunger value of their as player to ",
+  "commands.hunger.setSaturation": "who the saturation value of their as player to ",
+  "commands.hunger.set.fail": "Failed to set:",
+  "commands.hunger.setFoodLevel.failCause": "who hunger value of their as player, because it exceeds the maximum hunger value!",
+  "commands.hunger.setSaturation.failCause": "who saturation value of their as player, because it exceeds the hunger value!",
+
+  "text.AndSoOn": " and so on",
+  "text.big_stomach_potion.effect_small": "Increase the player's hunger limit by 2 points",
+  "text.big_stomach_potion.effect_medium": "Increase the player's hunger limit by 8 points",
+  "text.big_stomach_potion.effect_large": "Increase the player's hunger limit by 20 points",
+  "text.big_stomach_potion.small": "Small bottle",
+  "text.big_stomach_potion.medium": "medium bottle",
+  "text.big_stomach_potion.large": "large bottle",
+  "text.eatable_dirt.effect": "Reduce player hunger limit by 2 points"
+}
