@@ -12,8 +12,9 @@ import net.minecraft.util.FoodStats;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.TranslationTextComponent;
 
-import java.lang.reflect.InvocationTargetException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashMap;
 import java.util.stream.Collectors;
 
 public class hungerCommand {

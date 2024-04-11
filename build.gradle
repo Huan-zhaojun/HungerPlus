@@ -15,7 +15,7 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 apply plugin: 'org.spongepowered.mixin'
 
-version = 'Forge-1.16.5-1.0.0.0'
+version = 'Forge-1.16.5-1.1.0.0'
 group = 'com.huan.mod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'hunger_plus'
 

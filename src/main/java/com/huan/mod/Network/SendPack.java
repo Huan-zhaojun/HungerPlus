@@ -45,6 +45,7 @@ public class SendPack {
         context.enqueueWork(()->{
             if (Minecraft.getInstance().level != null && Minecraft.getInstance().level.isClientSide()) {
                 ClientPlayerEntity player = (ClientPlayerEntity) Minecraft.getInstance().level.getPlayerByUUID(uuid);
+                if (player == null) return;
                 FoodStats foodData = player.getFoodData();
                 try {
                     foodData.getClass().getMethod("setMaxFoodLevel", int.class).invoke(foodData, maxFoodLevel);
